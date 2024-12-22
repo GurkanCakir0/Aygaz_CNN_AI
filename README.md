@@ -2,6 +2,8 @@
 
 Bu proje, farklı hayvan türlerini sınıflandırmak için derin öğrenme teknikleri kullanarak bir **Convolutional Neural Network (CNN)** modeli geliştirmeyi amaçlamaktadır. Proje kapsamında, hayvan görselleri üzerinde veri artırma (augmentation) ve renk sabitliği gibi yöntemler uygulanarak model performansı değerlendirilmiştir. Model, **PyTorch** kütüphanesi ile geliştirilmiştir.
 
+## Kaggle Link : https://www.kaggle.com/code/hsyngrknckr/aygaz-cnn-projesi1-2
+
 ## Projenin Amacı
 
 Bu projenin amacı, belirli hayvan sınıflarını sınıflandırabilecek bir yapay zeka modeli oluşturmaktır. Proje ayrıca manipüle edilmiş ve renk sabitliği uygulanmış görseller üzerinde modelin nasıl performans gösterdiğini incelemeyi hedeflemektedir.
