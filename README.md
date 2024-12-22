@@ -104,6 +104,3 @@ Model performansı aşağıdaki grafikte gösterilmektedir:
 
 ![Model Karşılaştırması](./Tablo.png)
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına göz atabilirsiniz.
